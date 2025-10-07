@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-ROOT_URLCONF = 'devchat.urls'
+ROOT_URLCONF = 'devchat.devchat.urls'
 
 TEMPLATES = [
     {
