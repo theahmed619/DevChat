@@ -19,8 +19,8 @@ You can try out the live application here: **[https://devchat-alri.onrender.com/
 * **Database:** SQLite
 * **Deployment:** Render, Whitenoise for static files
 
-
-
+<!--
 ## Acknowledgments 🙏
 
 This project was created by following the excellent Django chat application tutorial by **[Moh Technology](https://www.youtube.com/@MohTechnology)** on YouTube.
+-->
